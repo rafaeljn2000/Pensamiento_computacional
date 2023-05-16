@@ -1,6 +1,22 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-    TU RESPUETA AQUI
+ ALGORITMO PARA LAVAR LAS MANOS
+
+INICIO.
+
+1.Abrir la llave del agua
+2.Mojarse las manos
+3.Enjabonar las manos 
+4.-Enjuagarse las manos
+5.-Cerrar llave del agua
+6.-Secarse las manos
+  
+
+FIN
+
+ENTRADA: JABÓN, AGUA.
+SALIDA: MANOS LIMPIAS
+
 
 
 
