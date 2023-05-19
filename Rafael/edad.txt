@@ -1,0 +1,17 @@
+1.-Inicio
+2.-Declarar
+	anio_nacimiento(int)
+	anio_actual(int)
+	edad(int)
+	nombre(str)}
+3.-Asignar
+	anio_actual=2023
+4.-Mostrar
+	('Ingresa tunombre')
+5.-Asignar nombre
+6.-Mostrar ('Ingresa tu año de nacimiento')
+7.-Asignar anio_nacimiento
+8.-edad=anio_actual-anio_nacimiento
+9.-Mostrar ('Tu edad',nombre,'es de',edad,'años')
+10.-Fin
+	

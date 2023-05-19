@@ -1,0 +1,33 @@
+1.-Inico
+2.-Declarar
+	calificion1(float)
+	calificacion2(float)
+	Calificacion3(float)
+	Calificacion4(float)
+	nombre('str')
+	promedio(float)
+	nombre('str')
+
+
+3.-Mostrar
+	('Ingresa el nombre del alumno')
+4.- Asignar nombre
+
+Mostrar
+	('Ingresa tu calificación1',nombre)
+Asignar calificacion1
+
+Mostrar	('Ingresa tu calificación2')
+Asignar calificacion2
+
+Mostrar ('Ingresa tu calificación3')
+Asignar Calificacion3 
+
+promedio=(calificacion1+calificacion2+Califcicion3+calificaion4 )/4
+
+14.- Mostrar ("El promedio de ", nombre, "es", promedio) 
+
+15.- Fin 
+
+
+		
