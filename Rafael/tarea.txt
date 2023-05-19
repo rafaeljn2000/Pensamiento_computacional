@@ -1,0 +1,16 @@
+
+20.8 por litro
+solicitar cantidad km ycntidad litros
+
+1.- Inicio
+2.- Declarar
+	cantidad_km(float)	
+	Cantidad_litros_gastados(float)
+	consumo_por_litro(float)
+
+3.- Asignar 
+	
+	consumo_por_litro=20.8
+
+4.-Mostrar
+	('Introduce la cantidad de kilometros recorridos')
