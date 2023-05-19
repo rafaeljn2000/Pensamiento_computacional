@@ -1,6 +1,6 @@
-Ejercicio de Funciones
+# Ejercicio de Funciones
 
-a) Escribe una función que dada una lista de números, modifica a los valores de las posiciones impares de la lista. 
+a) Función que dada una lista de números, modifica a los valores de las posiciones impares de la lista. 
 Cada componente de la lista que se encuentra en una posición (índice)  es modificada restándole el valor de la componente que se encuentra a la posición (índice) anterior en la lista.
 
 La función recibe como parámetro una lista y retorna la lista modificada.
